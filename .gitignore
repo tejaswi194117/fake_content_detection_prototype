@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+backend/bert_model/
+backend/models/
+
+frontend/node_modules/
+frontend/build/
